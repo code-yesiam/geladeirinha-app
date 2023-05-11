@@ -3,6 +3,7 @@ import { Ionicons } from '@expo/vector-icons';
 import { useTheme } from 'styled-components/native';
 import { TextInputProps } from 'react-native/Libraries/Components/TextInput/TextInput';
 
+
 import { Container, InputContainer } from './styles'
 
 interface InputProps {
